@@ -1,5 +1,3 @@
-# Wholesale_Customer_Segmentation_Analysis
-
 # Wholesale Customer Segmentation – Clustering Analysis & Strategic Recommendations
 
 ## ABOUT THE PROJECT:
